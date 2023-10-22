@@ -1,0 +1,10 @@
+/* WallpaperCarousel.css */
+.carousel-inner {
+    display: flex;
+    flex-wrap: nowrap; /* Prevent items from wrapping to the next line */
+    overflow-x: auto; /* Enable horizontal scrolling */
+}
+/* WallpaperCarousel.css */
+.carousel-container {
+    width: 100%; /* Set the width to 100% or a specific pixel value */
+}
